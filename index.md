@@ -1,91 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rusty L Simmons CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Rusty L Simmons
+
+Archeologist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
-
 ## Currently
 
-Standing on the shoulders of giants
+Southeast Archeological Center, National Park Service
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Geophysical Survey and Processing in addition to Technical Writing, document preparation and production
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Geophysical techniques and processes, Documument formatting, Civil Rights
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007-2011`
+**Middle Tennessee State University, Murfreesboro, TN.**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`June 2015 - 2017`
+**University of Florida, Gainesville, FL**
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2021`
+Star Award, _National Park Service_, Tallahassee, FL
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=Rustylsimmons) -->
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2017-Now`
+**Southeast Archeological Center, National Park Service, Tallahassee, FL**
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
