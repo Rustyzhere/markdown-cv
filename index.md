@@ -16,7 +16,7 @@ Archeologist, Developer.
 
 Southeast Archeological Center, National Park Service
 
-### Specialized in
+## Specialized in
 
 Geophysical Survey and Processing in addition to Technical Writing, document preparation and production,
 
@@ -33,13 +33,13 @@ Geophysical techniques and processes, Documument formatting, Civil Rights
 `2007-2011`
 **Middle Tennessee State University, Murfreesboro, TN.**
 
-`June 2015 - 2017`
+`June 2015-2017`
 **University of Florida, Gainesville, FL**
 
 ### Awards
 
 `2021`
-Star Award, _National Park Service_, Tallahassee, FL
+Star Award, National Park Service, Tallahassee, FL
 
 ### Publications
 
@@ -47,9 +47,9 @@ Star Award, _National Park Service_, Tallahassee, FL
 
 ## Occupation
 
-`2017-Now`
+`2017-Present`
 **Southeast Archeological Center, National Park Service, Tallahassee, FL**
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
