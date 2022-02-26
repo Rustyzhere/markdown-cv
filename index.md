@@ -24,7 +24,7 @@ Geophysical Survey and Processing in addition to Technical Writing, document pre
 
 Adobe Illustrator, InDesign and Photoshop, Photogrammetry, GIS
 
-### Research interests
+## Research interests
 
 Geophysical techniques and processes, Documument formatting, Civil Rights
 
@@ -36,12 +36,12 @@ Geophysical techniques and processes, Documument formatting, Civil Rights
 `June 2015 - 2017`
 **University of Florida, Gainesville, FL**
 
-## Awards
+### Awards
 
 `2021`
 Star Award, _National Park Service_, Tallahassee, FL
 
-## Publications
+### Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=Rustylsimmons) -->
 
