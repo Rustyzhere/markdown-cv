@@ -5,11 +5,11 @@ title: Rusty L Simmons CV
 
 # Rusty L Simmons
 
-Archeologist, Mathematician, Cambridge professor.
+Archeologist, Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rustylsimmons@gmail.com">rustylsimmons@gmail.com</a>
+| <a href="http://rustylsimmons">My Website</a>
 </div>
 
 ## Currently
@@ -19,6 +19,7 @@ Southeast Archeological Center, National Park Service
 ### Specialized in
 
 Geophysical Survey and Processing in addition to Technical Writing, document preparation and production
+Adobe Illustrator, InDesign and Photoshop, Photogrammetry, GIS
 
 ### Research interests
 
