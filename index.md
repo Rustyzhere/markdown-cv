@@ -18,7 +18,10 @@ Southeast Archeological Center, National Park Service
 
 ### Specialized in
 
-Geophysical Survey and Processing in addition to Technical Writing, document preparation and production
+Geophysical Survey and Processing in addition to Technical Writing, document preparation and production,
+
+## Software proficiencies
+
 Adobe Illustrator, InDesign and Photoshop, Photogrammetry, GIS
 
 ### Research interests
